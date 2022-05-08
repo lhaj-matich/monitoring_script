@@ -17,4 +17,4 @@ This script can help in **BornToBeRoot (42 Network)** Project. One of the main t
 - The number of commands executed with the sudo program.
 
 ## Script running on Debain 4.19.18 x86_64 GNU/Linux
-![Monitoring Script Demo](https://github.com/Ochoumoul/monitoring_script/blob/master/media/monitor.png?raw=true)
+![Monitoring Script Demo](https://github.com/Ochoumoul/monitoring_script/blob/main/media/monitor.png?raw=true)
